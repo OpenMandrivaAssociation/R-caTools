@@ -4,7 +4,7 @@
 Name:             R-%{packname}
 Version:          1.12
 Release:          1
-Summary:          Tools: moving window statistics, GIF, Base64, ROC AUC, etc.
+Summary:          Tools: moving window statistics, GIF, Base64, ROC AUC, etc
 Group:            Sciences/Mathematics
 License:          GPL-3
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
