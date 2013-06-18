@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.14
-Release:          1
+Release:          2
 Summary:          Tools: moving window statistics, GIF, Base64, ROC AUC, etc
 Group:            Sciences/Mathematics
 License:          GPL-3
